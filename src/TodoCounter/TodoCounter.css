@@ -1,0 +1,29 @@
+h1 {
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+    color: white;/* #0f718a; #fbbc05  #4285f4*/
+    font-weight: lighter;
+ }
+
+ .TodoCounter span {
+    font-weight: lighter;
+    background: transparent;
+    border: none;
+    color: #ff00ac;
+    font-weight: bold;
+ }
+
+ .TodoCounter .Total {
+    color: #c6ff00;
+ }
+
+ .TodoCounter .todos {
+    color: #18ffff;
+    font-weight: lighter;
+}
+
+/*.TodoCounter .congrats {
+    color: #ea4335;
+}*/

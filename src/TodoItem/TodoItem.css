@@ -1,0 +1,25 @@
+.TodoItem {
+    background-color: #18ffff;
+    color: #00838f;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 2px solid #fff;
+    box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.15); /*rgba(251, 188, 5, 0.2)  rgba(234, 67, 53, 0.1) */
+}
+
+.TodoItem-p {
+    margin: 20px 0 20px 20px;
+    width: calc(100% -120px);
+    font-size: 18px;
+    line-height: 24px;
+    line-weight: 400;
+}
+
+.TodoItem-p--complete {
+    text-decoration: line-through;
+    color: #ff00ac;/* #00838f */
+}

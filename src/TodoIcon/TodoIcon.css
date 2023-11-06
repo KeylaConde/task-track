@@ -1,0 +1,55 @@
+.Icon-container {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px!important;
+    width: 20px!important;    
+    font-weight: bold;
+    background: #fafafa; /* rgba(165, 165, 165, 0.5) rgba(234, 67, 53, 0.5)*/;
+    color: rgba(165, 165, 165, 0.5);
+    /*border: 1px solid #4285f4;*/
+    border-radius: 50%;
+    box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.7);
+}
+
+.Icon-container-check {
+    position: absolute;
+    left: 12px;
+    /*rgba(251, 188, 5, 0.6);*/
+    border: 1px solid white;
+    box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.7);
+}
+
+.Icon-container-check--active {
+    color:#4caf50!important;/*gba(52, 168, 83, 0.7);*/
+    box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.7);
+    border: 1px solid #aeea00!important;
+}
+
+.Icon-container-delete {
+    position: absolute;
+    top: -10px;
+    right: 0;
+}
+
+.Icon-container-delete:hover {
+    color: rgba(234, 67, 53, 0.7); /*#ea4335;*/
+}
+
+.Icon-svg {
+    width: 20px!important;
+    height: 20px!important;
+}
+
+.Icon-container-delete:hover .Icon-svg {
+    fill: #e91e63; /*#ea4335 rgba(234, 67, 53, 0.7); #333*/
+    background: #f48fb1;
+    border-radius: 50%;
+}
+
+.Icon-container-check:hover .Icon-svg {
+    fill: #00897b; /*#ea4335;*/
+    border-radius: 50%;
+    
+}

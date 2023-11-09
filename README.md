@@ -11,3 +11,7 @@ Key Features:
 - Streamlined user interface for intuitive task management.
 
 Simplify your daily routine and ensure you never miss an important task with TASK TRACK.
+
+## FOTOS
+
+https://drive.google.com/file/d/1MOEFXDua1Y_bHgWBn65dwA7HJwl_21rW/view?usp=drive_link

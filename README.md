@@ -12,6 +12,10 @@ Key Features:
 
 Simplify your daily routine and ensure you never miss an important task with TASK TRACK.
 
+## GETTING STARTED WITH CREATE REACT APP
+
+This project was bootstrapped with Create React App.
+
 ## PHOTOS
 
 ![Captura desde 2023-11-08 22-21-59](https://github.com/KeylaConde/task-track/assets/103471418/2995efe8-f867-4b8e-86ee-9384673f2729)

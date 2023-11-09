@@ -14,10 +14,11 @@ Simplify your daily routine and ensure you never miss an important task with TAS
 
 ## PHOTOS
 
-file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-21-50.png
-file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-21-59.png
-file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-22-26.png
-file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-22-52.png
-file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-28-16.png
-file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-28-59.png
-file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-29-21.png
+![Captura desde 2023-11-08 22-21-59](https://github.com/KeylaConde/task-track/assets/103471418/2995efe8-f867-4b8e-86ee-9384673f2729)
+![Captura desde 2023-11-08 22-22-26](https://github.com/KeylaConde/task-track/assets/103471418/4bb3d52a-1bd0-4681-be55-db893bcb0384)
+![Captura desde 2023-11-08 22-22-52](https://github.com/KeylaConde/task-track/assets/103471418/ba25595b-fc3d-433d-9073-32437b38ef4a)
+![Captura desde 2023-11-08 22-28-16](https://github.com/KeylaConde/task-track/assets/103471418/423706c4-a9dc-4033-9096-5c067b2e9664)
+![Captura desde 2023-11-08 22-28-59](https://github.com/KeylaConde/task-track/assets/103471418/2f91ca39-d736-4538-816e-06c163cdb967)
+![Captura desde 2023-11-08 22-29-21](https://github.com/KeylaConde/task-track/assets/103471418/f73c974e-57ae-4107-8847-2435a1f2c5d0)
+![Captura desde 2023-11-08 22-21-50](https://github.com/KeylaConde/task-track/assets/103471418/d95bd068-4ebe-4c8c-a148-c7d0bbf27ec7)
+

@@ -28,6 +28,8 @@ Simplify your daily routine and ensure you never miss an important task with TAS
 - npm
 - Json
 - CSS
+- HTML
+- JavaScript
 
 ## LINK
 

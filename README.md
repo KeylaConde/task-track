@@ -35,16 +35,16 @@ https://keylaconde.github.io/task-track/
 
 ## INSTALLATION
 
-From your terminal in vsc use the comands
+From your terminal in vsc use the comands:
 
-npm install
-npm start
+- npm install
+- npm start
 
 ## CONTACT
 
-Cellphone and whatsapp: +573158643093
-Email: keycoder.data@gmail.com
-LinkedIn profile: https://www.linkedin.com/in/keyla-carolina-conde-s%C3%A1nchez-32671a205/
+- Cellphone and whatsapp: +573158643093
+- Email: keycoder.data@gmail.com
+- LinkedIn profile: https://www.linkedin.com/in/keyla-carolina-conde-s%C3%A1nchez-32671a205/
 
 Thank you for visiting my profile and using my application! I hope it helps you manage your daily tasks. If you have any questions or suggestions, please feel free to contact me.
 

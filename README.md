@@ -12,6 +12,12 @@ Key Features:
 
 Simplify your daily routine and ensure you never miss an important task with TASK TRACK.
 
-## FOTOS
+## PHOTOS
 
-https://drive.google.com/file/d/1MOEFXDua1Y_bHgWBn65dwA7HJwl_21rW/view?usp=drive_link
+file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-21-50.png
+file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-21-59.png
+file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-22-26.png
+file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-22-52.png
+file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-28-16.png
+file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-28-59.png
+file:///home/keycode/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-11-08%2022-29-21.png

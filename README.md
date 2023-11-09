@@ -22,3 +22,30 @@ Simplify your daily routine and ensure you never miss an important task with TAS
 ![Captura desde 2023-11-08 22-29-21](https://github.com/KeylaConde/task-track/assets/103471418/f73c974e-57ae-4107-8847-2435a1f2c5d0)
 ![Captura desde 2023-11-08 22-21-50](https://github.com/KeylaConde/task-track/assets/103471418/d95bd068-4ebe-4c8c-a148-c7d0bbf27ec7)
 
+## TECNOLOGIES USED
+
+- React
+- npm
+- Json
+- CSS
+
+## LINK
+
+https://keylaconde.github.io/task-track/
+
+## INSTALLATION
+
+From your terminal in vsc use the comands
+
+npm install
+npm start
+
+## CONTACT
+
+Cellphone and whatsapp: +573158643093
+Email: keycoder.data@gmail.com
+LinkedIn profile: https://www.linkedin.com/in/keyla-carolina-conde-s%C3%A1nchez-32671a205/
+
+Thank you for visiting my profile and using my application! I hope it helps you manage your daily tasks. If you have any questions or suggestions, please feel free to contact me.
+
+
